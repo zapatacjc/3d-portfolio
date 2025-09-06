@@ -265,7 +265,7 @@ export const experiences = [
     ],
   },
   {
-    title: 'Systems Administrator ans Full Stack Developer',
+    title: 'Systems Administrator and Full Stack Developer',
     company_name: 'Universidad Autónoma de San Luis Potosí',
     icon: uaslp,
     iconBg: '#ffffff',
